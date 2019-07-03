@@ -24,8 +24,8 @@ export default class App extends React.Component {
             <div>
                 <h1 className='main-title'>React static list of posts</h1>
                 <div>
-                    <PostList key={postsData.id}
-                              posts={postsData}/>
+                    <PostList
+                        posts={postsData}/>
                 </div>
             </div>
         );
