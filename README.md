@@ -2,7 +2,7 @@
 
 ## Demo link
 
-Add link here: `[DEMO LINK](http://alinaray.github.io/fe_on_feb19-react-static-list-of-posts)`
+Add link here: `[DEMO LINK](http://alinaray.github.io/fe_on_feb19-react-dynamic-list-of-posts)`
 
 
 ## Task
