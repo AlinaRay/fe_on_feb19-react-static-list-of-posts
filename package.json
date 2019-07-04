@@ -1,6 +1,6 @@
 {
   "name": "fe_on_feb19-react-static-list-of-posts",
-  "homepage" : "http://alinaray.github.io/fe_on_feb19-react-dynamic-list-of-posts",
+  "homepage" : "http://alinaray.github.io/fe_on_feb19-react-static-list-of-posts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
