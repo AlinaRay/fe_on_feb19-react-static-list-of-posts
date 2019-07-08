@@ -1,4 +1,4 @@
-import { posts } from './comments.js'
+import {posts} from './posts.js'
 
 export default function PostsApi() {
     return {
@@ -6,5 +6,4 @@ export default function PostsApi() {
             return posts;
         }
     }
-
 }

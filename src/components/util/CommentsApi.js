@@ -1,4 +1,4 @@
-import { comments } from './comments.js'
+import { comments} from './comments.js'
 
 export default function CommentsApi() {
     return {
@@ -6,5 +6,4 @@ export default function CommentsApi() {
             return comments;
         }
     }
-
 }
